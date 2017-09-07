@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Remember to replace the APP_ID with your Stitch Application ID
 
-    private static final String APP_ID = "test_app-itmdn"; //The Stitch Application ID
+    private static final String APP_ID = "restaurant-urmym"; //The Stitch Application ID
     private static final String TAG = "STITCH-SDK";
     private static final String MONGODB_SERVICE_NAME = "mongodb-atlas";
 

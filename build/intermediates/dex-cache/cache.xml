@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Documents\mongodb-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Documents\mongodb-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2118885568616ce3969db1fb8503160d35f84331\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\mongodb-android\app\build\intermediates\exploded-aar\org.mongodb\stitch\0.1.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d86a7670a9e1db874b99c31b1123f866b539b43">
+        <dex dex="D:\Documents\mongodb-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.mongodb-stitch-0.1.0-SNAPSHOT_6d8d74d0b11710379b41c691c82f958b79766200\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\mongodb-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d25400d0a3003c314eeea90bc808c8215694243">
+        <dex dex="D:\Documents\mongodb-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0dce2daa098d2c2902e3c218c923a45cba4def81\classes.dex" />
+    </item>
+
+</items>
